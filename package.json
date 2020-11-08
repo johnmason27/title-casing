@@ -15,7 +15,7 @@
     "case",
     "string"
   ],
-  "author": "John Mason",
+  "author": "John Mason <jjnrmason@me.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/johnmason27/title-casing/issues"
