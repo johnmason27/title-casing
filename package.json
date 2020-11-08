@@ -1,0 +1,24 @@
+{
+  "name": "title-casing",
+  "version": "1.0.0",
+  "description": "Converts a given string to title case.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnmason27/title-casing.git"
+  },
+  "keywords": [
+    "title",
+    "case",
+    "string"
+  ],
+  "author": "John Mason",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnmason27/title-casing/issues"
+  },
+  "homepage": "https://github.com/johnmason27/title-casing#readme"
+}
