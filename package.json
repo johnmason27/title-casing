@@ -4,7 +4,7 @@
   "description": "Converts a given string to title case.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -21,5 +21,13 @@
   "bugs": {
     "url": "https://github.com/johnmason27/title-casing/issues"
   },
-  "homepage": "https://github.com/johnmason27/title-casing#readme"
+  "homepage": "https://github.com/johnmason27/title-casing#readme",
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "jest": "^26.6.3"
+  },
+  "babel": {
+    "presets": [ "@babel/preset-env" ]
+  }
 }
